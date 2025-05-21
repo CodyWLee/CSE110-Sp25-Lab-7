@@ -6,8 +6,9 @@ I wouldn't as you can test in other places for a funtion.
 
 Snapshot occurs in the present whilst navigation occurs after it finishes loading. Both have different things they look for and both have drawbacks.
 
-
-
+Add this <meta name="viewport"> tag with width or initial-scale
+Add something so this doesn't pop up <html> element does not have a [lang] attribute
+add a meta desccription.
 
 
 
